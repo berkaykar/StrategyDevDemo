@@ -1,0 +1,2 @@
+C:\Users\ozlem\OneDrive\Masaüstü\Coati\Color Balls Graph\Strategy Game Demo\obj\Debug\PackageToolsEditor.csproj.AssemblyReference.cache
+C:\Users\ozlem\OneDrive\Masaüstü\Coati\Color Balls Graph\Strategy Game Demo\obj\Debug\PackageToolsEditor.csproj.CoreCompileInputs.cache
